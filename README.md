@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=G0ndim&style=for-the-badge&color=blue" />
 <img src="https://img.shields.io/github/followers/G0ndim?style=for-the-badge&logo=github&label=Followers&color=blue" />
 <img src="https://img.shields.io/github/stars/G0ndim?style=for-the-badge&logo=github&label=Total%20Stars&color=blue" />
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Repositories&color=blue&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FG0ndim" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Repositories&color=blue&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FG0ndim&cacheSeconds=3600" alt="Repositories" />
 
 </div>
 
