@@ -1,21 +1,14 @@
 <div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <div align="left">
-     <img src="https://img.shields.io/badge/on%20GitHub%20since-2022-blue?style=for-the-badge&logo=github&labelColor=2d2d2d" alt="GitHub Since" />
-    </div>
-    <div align="right">
-      <img src="https://komarev.com/ghpvc/?username=G0ndim&style=for-the-badge&color=blue" alt="Profile Views" />
-      <img src="https://img.shields.io/github/followers/G0ndim?style=for-the-badge&logo=github&label=Followers&color=blue" alt="Followers" />
-      <img src="https://img.shields.io/github/stars/G0ndim?style=for-the-badge&logo=github&label=Total%20Stars&color=blue" alt="Stars" />
-      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Repositories&color=blue&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FG0ndim" alt="Repositories" />
-    </div>
-  </div>
-</div>
 
-<br/>
+<img src="./assets/Banner1.png" width="100%" />
 
-<div align="center">
-  <img src="./assets/Banner1.png" alt="Banner" width="100%"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=G0ndim&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/followers/G0ndim?style=for-the-badge&logo=github&label=Followers&color=blue" />
+<img src="https://img.shields.io/github/stars/G0ndim?style=for-the-badge&logo=github&label=Total%20Stars&color=blue" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Repositories&color=blue&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FG0ndim" />
+
 </div>
 
 ## 👨‍💻 About Me
