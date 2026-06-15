@@ -31,3 +31,14 @@ Currently, I'm expanding my knowledge of predictive modeling, data analysis, and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
 </div>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0ndim&theme=zenburn&layout=compact" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=G0ndim&theme=zenburn&show_icons=true&hide=issues" alt="GitHub Stats" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G0ndim&theme=zenburn" alt="Profile Details" />
+</p>
