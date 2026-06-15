@@ -35,10 +35,10 @@ Currently, I'm expanding my knowledge of predictive modeling, data analysis, and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0ndim&theme=zenburn&layout=compact" alt="Top Languages" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=G0ndim&theme=zenburn&show_icons=true&hide=issues" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0ndim&theme=blueberry&layout=compact" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=G0ndim&theme=blueberry&show_icons=true&hide=issues" alt="GitHub Stats" height="140" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G0ndim&theme=zenburn" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G0ndim&theme=blueberry" alt="Profile Details" />
 </p>
